@@ -83,10 +83,6 @@ This project analyzes customer shopping behavior using transactional data from 3
 * customer_purchase_behavior_report.pdf
 * project_presentation.pptx
 
-
-### Dashboard Overview
-![Dashboard Overview](screenshots/Dashboard.png)
-
 ## Author
 
 Gayathri S
